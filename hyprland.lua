@@ -1,4 +1,4 @@
-local active_border_color = "#c8a65199"
+local active_border_color = "#c8a651ff"
 local inactive_border_color = "rgba(59595966)"
 
 hl.config({

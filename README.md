@@ -40,7 +40,7 @@ Install **Golden Ethiopia** directly from GitHub using Omarchy's built-in theme 
 Open your terminal and run:
 
 ```bash
-omarchy theme install https://github.com/samishow/omarchy-golden-ethiopia-theme
+omarchy theme install https://github.com/samuelk37/omarchy-golden-ethiopia-theme
 ```
 
 ### 2. Apply the theme
